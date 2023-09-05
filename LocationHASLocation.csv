@@ -1,0 +1,6 @@
+startAdoptionUUID,endAdoptionUUID,perspectives,internalPurpose
+1234,5678,"Planned,Operational",TRUE
+9012,3456,"Planned,Operational",FALSE
+3456,7890,Planned,TRUE
+3456,12345,Operational,TRUE
+3456,67890,"Planned,Operational",FALSE
