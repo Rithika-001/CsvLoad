@@ -1,4 +1,4 @@
-perspectives,defaultShelftype,role,archetypeInstanceId,deviceName,precomputedtypename,adoptionUUID,cust4
-"Planned,Operational",1174,Optical,1173,OME 6500 14 SLOT_TESTISSU1,OME 6500 14 Slot,7890,1;2
-"Planned,Operational",1132,Ethernet,1131,ASR 9010,ASR 9010,12345,1;2
-"Planned,Operational",1190,"Optical,Ethernet",1189,CSC3660,CSC3660,67890,1;2
+perspectives,defaultShelftype,role,archetypeInstanceId,deviceName,precomputedtypename,adoptionUUID,cust4,createdDate,lastModifiedDate
+"Planned,Operational",1174,Optical,1173,OME 6500 14 SLOT_TESTISSU1,OME 6500 14 Slot,7890,1;2,1696833189000,1696833189000
+"Planned,Operational",1132,Ethernet,1131,ASR 9010,ASR 9010,12345,1;2,1696833189000,1696833189000
+"Planned,Operational",1190,"Optical,Ethernet",1189,CSC3660,CSC3660,67890,1;2,1696833189000,1696833189000
