@@ -1,5 +1,5 @@
-perspectives,precomputedtypename,archetypeInstanceId,name,status,adoptionUUID,cust,cust2,cust3,createdDate,lastModifiedDate
-"Planned,Operational",Country,1001,Template Country,Template,1234,1,true;false,cus;cus1,1696833189000,1696833189000
-"Planned,Operational",State,1003,Template State,Template,5678,1,true;false,cus;cus1,1696833189000,1696833189000
-"Planned,Operational",City,1007,Template City,Template,9012,1,true;false,cus;cus1,1696833189000,1696833189000
-"Planned,Operational",Building,1009,Template Building,Template,3456,1,true;false,cus;cus1,1696833189000,1696833189000
+perspectives,precomputedtypename,archetypeInstanceId,name,status,adoptionUUID,cust,cust2,cust3,createdDate,lastModifiedDate,nameCode
+"Planned,Operational",Country,1001,Template Country,Template,1234,1,true;false,cus;cus1,1696833189000,1696833189000,TC
+"Planned,Operational",State,1003,Template State,Template,5678,1,true;false,cus;cus1,1696833189000,1696833189000,TS
+"Planned,Operational",City,1007,Template City,Template,9012,1,true;false,cus;cus1,1696833189000,1696833189000,TC
+"Planned,Operational",Building,1009,Template Building,Template,3456,1,true;false,cus;cus1,1696833189000,1696833189000,TB
