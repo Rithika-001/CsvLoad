@@ -1,5 +1,5 @@
-perspectives,precomputedtypename,archetypeInstanceId,name,status,adoptionUUID,cust
-"Planned,Operational",Country,1001,Template Country,Template,1234,1
-"Planned,Operational",State,1003,Template State,Template,5678,1
-"Planned,Operational",City,1007,Template City,Template,9012,1
-"Planned,Operational",Building,1009,Template Building,Template,3456,1
+perspectives,precomputedtypename,archetypeInstanceId,name,status,adoptionUUID,cust,cust2,cust3
+"Planned,Operational",Country,1001,Template Country,Template,1234,1,true;false,cus;cus1
+"Planned,Operational",State,1003,Template State,Template,5678,1,true;false,cus;cus1
+"Planned,Operational",City,1007,Template City,Template,9012,1,true;false,cus;cus1
+"Planned,Operational",Building,1009,Template Building,Template,3456,1,true;false,cus;cus1
